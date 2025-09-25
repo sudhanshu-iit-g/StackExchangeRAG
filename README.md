@@ -39,6 +39,8 @@ Retrieve top relevant posts
 
 Generate a refined response using RAG framework
 
+---
+
 🚀 Future Improvements
 
 Multi-hop retrieval for more complex queries
@@ -48,6 +50,8 @@ Integration with larger pretrained language models
 API or Streamlit-based frontend for interactive querying
 
 Source attribution for retrieved answers
+
+---
 
 👤 Author
 
